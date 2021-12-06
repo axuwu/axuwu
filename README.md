@@ -6,8 +6,8 @@ I'm António from Portugal, and I'm in my third year of studies towards a bachel
 #### Skills and Experience
 - 🐍Python
 - ☕Java
-- ©️ C
-- 🌍 HTML, CSS, JS
+- ©️C
+- 🌍HTML, CSS, JS
 ----
 #### 
 - 🔭 I’m currently working on my bachelor's degree 
