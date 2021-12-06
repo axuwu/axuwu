@@ -1,5 +1,6 @@
 ### Hi there 👋
-----
+![IMGBANNER](https://i.imgur.com/zJUb0KI.png)
+
 I'm António from Portugal, and I'm in my third year of studies towards a bachelor's in Computer Sciences. I really enjoy learning languages and frameworks.
 ----
 #### Skills and Experience
