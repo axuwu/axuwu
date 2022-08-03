@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![IMGBANNER](https://i.imgur.com/zJUb0KI.png)
 
-I'm António from Portugal, and I'm finished a bachelor's in Computer Sciences. I really enjoy learning languages and frameworks.
+I'm António from Portugal, and I finished a bachelor's in Computer Sciences. I really enjoy learning languages and frameworks.
 ----
 #### Skills and Experience
 - 🐍Python
